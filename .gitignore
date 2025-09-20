@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.xml
+*.db
+*.sqlite
+*.h5
+*.pkl
+*.joblib
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+*.tflite
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# Results and figures
+results/
+figures/
+plots/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Misc
+*.bak
+*.tmp
+*.cache
+
+#mlflow
+mlruns/

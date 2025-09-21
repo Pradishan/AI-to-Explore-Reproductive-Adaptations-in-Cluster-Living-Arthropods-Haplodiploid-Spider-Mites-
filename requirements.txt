@@ -12,3 +12,6 @@ tensorflow
 mlflow
 imbalanced-learn
 pmdarima
+scikeras
+catboost
+lightgbm

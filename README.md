@@ -1,4 +1,4 @@
-﻿# AI Models for Spider-Mite Research
+﻿# AI Models for Spider-Mite (exploring population dynamics) Research
 
 This repository contains data analysis, preprocessing, machine-learning, time-series forecasting, synthetic-data generation, and computer-vision experiments for spider-mite research.
 
